@@ -1,2 +1,2 @@
 # MachineLearningLife
-Random Scripts, Templates
+Random Scripts and Templates related to machine learning
